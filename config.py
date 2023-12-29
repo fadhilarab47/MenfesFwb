@@ -9,8 +9,8 @@ db_url = os.environ.get("DB_URL", "mongodb+srv://doadmin:9r260Iqy437zS1lA@db-mon
 db_name = os.environ.get("DB_NAME", "doadmin")
 # =========================================================== #
 
-channel_1 = int(os.environ.get("CHANNEL_1", "-1002090852874"))
-channel_2 = int(os.environ.get("CHANNEL_2", "-1001665881786"))
+channel_1 = int(os.environ.get("CHANNEL_1", "-1001665881786"))
+channel_2 = int(os.environ.get("CHANNEL_2", "-1002100850265"))
 channel_log = int(os.environ.get("CHANNEL_LOG", "-1002130415408"))
 # =========================================================== #
 
